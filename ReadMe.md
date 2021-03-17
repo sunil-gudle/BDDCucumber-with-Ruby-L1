@@ -97,8 +97,10 @@ click on continue. My Account page is displayed.
 Step 26 
 Click on "Logout " The user should be logged out.
 
-#TC02 - Product Comparison
-###Step_No Steps to be executed Expected Result Data's used
+#TC02 - Product Comparison  
+
+###Step_No Steps to be executed Expected Result Data's used  
+
 Step 1  
 Launch Open Cart application https://demo.opencart.com/  
 User must be able to launch the open cart
