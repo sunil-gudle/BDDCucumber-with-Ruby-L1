@@ -1,5 +1,6 @@
-#TC01 - Registration and Add to Cart
-###Step_No Steps to be executed Expected Result Remarks  
+#TC01 - Registration and Add to Cart  
+
+###Step_No Steps to be executed Expected Result Remarks    
 Step 1  
 Launch Open Cart application https://demo.opencart.com/ .  
 User must be able to launch the open cart application
